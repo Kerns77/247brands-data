@@ -1,6 +1,6 @@
 domain,status,display_price,BIN_price,min_offer,notes
 abbaparty.co.uk,FOR_SALE,549,744,425,Entertainment
-abbaparty.com,PREMIUM,4500,5180,1800,Entertainment
+abbaparty.com,PREMIUM,4500,5000,1800,Entertainment & Themed
 anarchism.uk,FOR_SALE,2286,2926,966,Popular
 apeespresso.co.uk,FOR_SALE,322,459,261,Hospatility 
 applefc.co.uk,PREMIUM,922,1448,609,Popular
@@ -149,4 +149,5 @@ wizardwine.co.uk,PREMIUM,2138,2499,933,Brandable
 youo.co.uk,PREMIUM,16270,19546,7058,Premium
 
 ywifi.co.uk,PREMIUM,12702,15528,5575,Premium
+
 
